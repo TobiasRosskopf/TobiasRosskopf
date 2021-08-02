@@ -14,9 +14,9 @@
 <br>
 
 ## My tools:
-[<img align="left" width="22px" alt="apple" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg"/>]
-[<img align="left" width="22px" alt="vscode" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/code.svg"/>]
-[<img align="left" width="22px" alt="homebrew" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/homebrew.svg"/>]
+<img align="left" width="22px" alt="apple" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg"/>
+<img align="left" width="22px" alt="vscode" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
+<img align="left" width="22px" alt="homebrew" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/homebrew.svg"/>
 
 
 
