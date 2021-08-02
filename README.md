@@ -28,7 +28,7 @@
   <tr>
     <td><img align="left" alt="Homebrew" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Homebrew_logo.png" /></td>
     <td>Homebrew</td>
-    <td>paket manager for macOS</td>
+    <td>package manager for macOS</td>
   </tr>
   <tr>
     <td><img align="left" alt="Fish" height="28px" src="https://fishshell.com/assets/img/Terminal_Logo_LCD_Small.png" /></td>
