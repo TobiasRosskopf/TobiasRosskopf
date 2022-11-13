@@ -1,14 +1,9 @@
 # Tobias Rosskopf
 
-- 🔭 I’m currently working on an own QGIS plugin and some templates for Django and React.
-- 🌱 I’m currently learning [rust][rust], [cypress][cypress] and [docker swarm][dockerswarm].
-- 👯 I’m looking to collaborate on [radolan2map][radolan2map].
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-
 ## Found me on:
 [<img align="left" height="28px" alt="rosskopf.xyz" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1200px-Globe_icon.svg.png"/>][website]
 [<img align="left" height="28px" alt="github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"/>][github]
-[<img align="left" height="28px" alt="linkedin" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
+[<img align="left" height="28px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png"/>][linkedin]
 [<img align="left" height="28px" alt="xing" src="https://w7.pngwing.com/pngs/374/219/png-transparent-logo-xing-expression-design-miscellaneous-angle-text-thumbnail.png"/>][xing]
 <br />
 
@@ -56,7 +51,7 @@
     <td>test framework for Python</td>
   </tr>
   <tr>
-    <td><img align="left" alt="Pylint" height="28px" src="https://pylint.org/pylint.svg" /></td>
+    <td><img align="left" alt="Pylint" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pylint_Logo_2018.svg/544px-Pylint_Logo_2018.svg.png" /></td>
     <td>Pylint</td>
     <td>linter for Python</td>
   </tr>
@@ -71,7 +66,7 @@
     <td>Python package for scientific computing</td>
   </tr>
   <tr>
-    <td><img align="left" alt="SciPy" height="28px" src="https://docs.scipy.org/doc/scipy/_static/scipyshiny_small.png" /></td>
+    <td><img align="left" alt="SciPy" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/512px-SCIPY_2.svg.png" /></td>
     <td>SciPy</td>
     <td>Python package for mathematics, science, and engineering</td>
   </tr>
@@ -156,8 +151,8 @@
     <td>interpreter for Javascript</td>
   </tr>
   <tr>
-    <td><img align="left" alt="npm" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" /></td>
-    <td>npm</td>
+    <td><img align="left" alt="yarn" height="28px" src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" /></td>
+    <td>yarn</td>
     <td>package manager for Node.js</td>
   </tr>
   <tr>
@@ -166,7 +161,7 @@
     <td>test framework for JavaScript</td>
   </tr>
   <tr>
-    <td><img align="left" alt="ESLint" height="28px" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" /></td>
+    <td><img align="left" alt="ESLint" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/324px-ESLint_logo.svg.png" /></td>
     <td>ESLint</td>
     <td>linter for JavaScript</td>
   </tr>
