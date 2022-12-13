@@ -1,7 +1,7 @@
 # Tobias Rosskopf
 
 ## Found me on:
-[<img align="left" height="28px" alt="rosskopf.xyz" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1200px-Globe_icon.svg.png"/>][website]
+[<img align="left" height="28px" alt="rosskopf.xyz" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1200px-Globe_icon.svg.png"/>][website]
 [<img align="left" height="28px" alt="github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"/>][github]
 [<img align="left" height="28px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png"/>][linkedin]
 [<img align="left" height="28px" alt="xing" src="https://w7.pngwing.com/pngs/374/219/png-transparent-logo-xing-expression-design-miscellaneous-angle-text-thumbnail.png"/>][xing]
@@ -243,7 +243,7 @@
 <table>
 
 
-[website]: https://www.rosskopf.xyz
+[website]: http://www.rosskopf.xyz
 [github]: https://www.github.com/tobiasrosskopf
 [linkedin]: https://www.linkedin.com/in/tobias-rosskopf-85b9051b/
 [xing]: https://www.xing.com/profile/Tobias_Rosskopf
